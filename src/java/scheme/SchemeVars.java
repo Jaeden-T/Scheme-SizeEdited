@@ -55,7 +55,7 @@ public class SchemeVars {
     public static ConsoleFragment consolefrag;
     public static CoreInfoFragment corefrag;
 
-    public static Seq<String> clajURLs = Seq.with("OWOBORING");
+    public static Seq<String> clajURLs = Seq.with("127.0.0.1");
 
     /** List of ip servers that block the mod. */
     public static Seq<String> antiModIPs = Seq.with(
