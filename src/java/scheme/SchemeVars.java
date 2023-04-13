@@ -56,9 +56,9 @@ public class SchemeVars {
     public static CoreInfoFragment corefrag;
 
     public static Seq<String> clajURLs = Seq.with(
-            "127.0.0.1",
-            "127.0.0.1",
-            "127.0.0.1");
+            "127.0.0.1:1003",
+            "127.0.0.1:1002",
+            "127.0.0.1:1001");
 
     /** List of ip servers that block the mod. */
     public static Seq<String> antiModIPs = Seq.with(
