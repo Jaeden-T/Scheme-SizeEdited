@@ -54,7 +54,7 @@ public class SchemeVars {
     public static ShortcutFragment shortfrag;
     public static ConsoleFragment consolefrag;
     public static CoreInfoFragment corefrag;
-    
+
     public static Seq<String> clajURLs = Seq.with(
             "darkdustry.net:3917",
             "45.82.176.157:3917",
