@@ -55,10 +55,7 @@ public class SchemeVars {
     public static ConsoleFragment consolefrag;
     public static CoreInfoFragment corefrag;
 
-    public static Seq<String> clajURLs = Seq.with(
-            "darkdustry.net:3917",
-            "45.82.176.157:3917",
-            "claj.phoenix-network.dev:4000");
+    public static Seq<String> clajURLs = Seq.with("OWOBORING");
 
     /** List of ip servers that block the mod. */
     public static Seq<String> antiModIPs = Seq.with(
